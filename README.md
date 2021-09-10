@@ -8,7 +8,8 @@
 <br>I write my own front and back end (Ok... I cheat and use HTML for the front end - because CGI scripting in C is challenging). 
 <br>Occasionally I dabble in other languages.
 <br>I’m currently learning EVERYTHING
-<br>I’m working on a project using a Raspi project for control of satellite dishes, receivers, and encoders, upconverters, and other transmission equipment (among other projects)
+<br>I’m working on a project using a Raspi for control of satellite dishes, receivers, encoders, upconverters, and other transmission equipment (among other projects)
+<br>OF COURSE I own a bona-fide spectrum analyzer (and o'scope, etc)... 
 <br>I can be reached - at various transmitter sites around Cedar Hill, TX
 </body>
 <html>
